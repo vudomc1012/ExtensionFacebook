@@ -11,7 +11,7 @@ Một extension nho nhỏ, giúp mình xem lại những tin nhắn đã bị đ
 
 - Extension đang trong giai đoạn phát triển, còn nhiều lỗi vặt
 
-- Hiện chưa up lên store (mất 5$ á :)) ) Khi nào hoàn thiện hơn, nếu có tiền sẽ up lên cho mọi người dễ xài :)
+- Hiện chưa up lên store (mất tận 5$ cơ  :)) ) Khi nào hoàn thiện hơn, nếu có tiền sẽ up lên cho mọi người dễ sử dụng nhưng ai chả có khó khăn đúng không :))
 
 ### Ý tưởng và Tham khảo code từ [KB2A Tool](https://kb2atool.com/)
 
@@ -77,4 +77,4 @@ Sau khi tu luyện bằng source code KB2A Tool, thì mình đã tìm ra chân l
 
 Khi trang facebook bắt đầu chạy, nó sẽ **dùng thằng GIẢ** này để tạo biến websocket local cho riêng nó để dùng. Nhưng do đã bị **LÀM GIẢ** từ trước, nên trong biến local đó đã có sẵn code lắng nghe sự kiện của ta. **BÙMMM** 
 
-Vậy là mọi ý tưởng đã hoàn thành. Mình đã thực hiện và chia sẻ source code với mọi người
+Vậy là mọi ý tưởng đã hoàn thành. Mình đã thực hiện và chia sẻ source code với mọi người. Để sử dụng chỉ cần tải file zip trên kia về giải nén ra và thêm vào extension là được nhé.
